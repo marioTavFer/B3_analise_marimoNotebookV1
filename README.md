@@ -2,7 +2,7 @@
 
 ## Preambulo da VERSÃO 1.0 marimo (+ environment uv) idêntica à versão 4 do jupyter notebook
 
-O preâmbulo abaixo refere-se à versão 4.0 com jupiter notebook também disponível no github (repositório: 'B3_analiseDadosV3').
+O preâmbulo abaixo refere-se à versão 4.0 com jupyter notebook também disponível no GitHub (repositório: 'B3_analiseDadosV3').
 
 A estrutura dos diretórios é idêntica. 
 
