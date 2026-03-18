@@ -14,7 +14,9 @@ Só que ainda estou com problemas com a integração com o copilot Pro dentro do
 
 Para quem usa o jupyter, a 'curva de aprendizado' será quase 'transparente' com ressalvas para as configurações de AI, MCP, etc. Mas, dependendo do background de cada um, também poderá será um 'piece of cake'.
 
-FIM.
+
+Bom divertimento!
+(Nota: falta ainda, no final, a sugestão de 'próximos passos' (que tem!), assim que terminar, adiciono aqui.
 
 ## Abaixo o preambulo da versão 4.0 (do jupyter notebook)
 
@@ -154,8 +156,9 @@ O notebook é dividido em células que carregam dados, processam cálculos e ger
 - numpy
 - pyarrow
 - polars (não usado)
-- yfinance (opcional)
-- matplotlib (opcional)
+- yfinance (não usado)
+- matplotlib (não usado)
+- statsmodels (para o gráfico de correlação, o marimo detectou a falta e uv instalou automaticamente)
 
 Instale com pip ou anaconda: (Obs: ainda não testei, mas quero brevemente testar o Marimo e uv, para substituir anaconda, conda, pip e jupyter):
 
