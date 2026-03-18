@@ -16,9 +16,11 @@ Para quem usa o jupyter, a 'curva de aprendizado' será quase 'transparente' com
 
 
 Bom divertimento!
+
 (Nota: falta ainda, no final, a sugestão de 'próximos passos' (que tem!), assim que terminar, adiciono aqui.
 
 ## Abaixo o preambulo da versão 4.0 (do jupyter notebook)
+
 
 Acabei de, praticamente, reescrever 70%, ou mais, do código, porque o estou deixando mais 'friendly' para importá-lo para o marimo (novo notebook que estou testando. Ambiente virtual c/uv: marimo + uv, para testar opção de substituição de anaconda, conda, jupyter e pip).
 
